@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Integración de <em>assetts</em>',
+    componenteFormativo: 'Integración de <em>assets</em>',
     descripcionCurso:
-      'Explicación pasos de descarga, instalación, importación de assets y elementos en <em>Unity 3D</em>.',
+      'Explicación pasos de descarga, instalación, importación de <em>assets</em> y elementos en Unity 3D.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -21,7 +21,7 @@ export default {
       },
       {
         nombreRuta: 'introduccion',
-        icono: 'fas fa-info',
+        icono: 'fas fa-info-circle',
         titulo: 'Introducción',
         desarrolloContenidos: true,
       },
@@ -52,7 +52,6 @@ export default {
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
@@ -261,86 +260,248 @@ export default {
       link: 'https://www.vidaextra.com/analisis/pikmin-3-analisis',
     },
   ],
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable del equipo de diseño instruccional',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Fabián Andrés Gómez Pico',
-        cargo: 'Experto temático 3D',
-        centro:
-          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
-      },
-      {
-        nombre: 'Johnier Felipe Perafán Ledezma',
-        cargo: 'Experto temático 3D',
-        centro:
-          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
-      },
-      {
-        nombre: 'Luz Aida Quintero Velásquez',
-        cargo: 'Diseñadora y evaluadora instruccional',
-        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
-      },
-      {
-        nombre: 'Gustavo Santis Mancipe',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-      },
-      {
-        nombre: 'Oscar Absalón Guevara',
-        cargo: 'Evaluador instruccional',
-        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julia Isabel Roberto',
-        cargo: 'Diseñadora y evaluadora instruccional',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Edison Eduardo Mantilla Cuadros',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Jorge Enrique Haylock Calderín',
-        cargo: 'Desarrollo front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Responsable del equipo de gestión de repositorio',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-    ],
+  creditos: [
+    {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Claudia Patrica Aristizabal Gutiérrez',
+          cargo: 'Líder ecosistema de recursos educativos digitales (RED)',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Liliana Victoria Morales Gualdron',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable del equipo de diseño instruccional',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Fabián Andrés Gómez Pico',
+          cargo: 'Experto temático 3D',
+          centro:
+            'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+        },
+        {
+          nombre: 'Johnier Felipe Perafán Ledezma',
+          cargo: 'Experto temático 3D',
+          centro:
+            'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+        },
+        {
+          nombre: 'Luz Aida Quintero Velásquez',
+          cargo: 'Diseñadora y evaluadora instruccional',
+          centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Gustavo Santis Mancipe',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Oscar Absalón Guevara',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Diseñadora y evaluadora instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Gloria Amparo Lopez Escudero',
+          cargo: 'Diseñador instruccional - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Gloria Lida Alzate Suarez',
+          cargo: 'Diseñador instruccional - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Nelly Parra Guarin',
+          cargo: 'Diseñador instruccional - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Metodólogo para la formación virtual - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Andres Felipe Velandia Espitia',
+          cargo: 'Metodólogo para la formación virtual - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Francisco José Lizcano Reyes',
+          cargo: 'Responsable del equipo',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñador de contenidos digitales - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Adriana Marcela Suarez Eljure',
+          cargo: 'Diseñador de contenidos digitales - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Eulises Orduz Amezquita',
+          cargo: 'Diseñador de contenidos digitales - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñador de contenidos digitales - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Jesus Antonio Vecino Valero',
+          cargo: 'Diseñador de contenidos digitales - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor multimedia - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animador y productor multimedia - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animador y productor multimedia - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Edison Eduardo Mantilla Cuadros',
+          cargo: 'Diseño web',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Jorge Enrique Haylock Calderín',
+          cargo: 'Desarrollo front-end',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Manuel Felipe Echavarría Orozco',
+          cargo: 'Desarrollador full-stack - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Jhon Jairo Urueta Alvarez',
+          cargo: 'Desarrollador full-stack - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Luis Jesus Perez Madariaga',
+          cargo: 'Desarrollador full-stack - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Diego Fernando Velasco Guiza',
+          cargo: 'Desarrollador full-stack junior - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Jhon Edinson Castañeda Oviedo',
+          cargo: 'Desarrollador full-stack junior - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Lina Marcela Perez Manchego',
+          cargo: 'Validador de recursos digitales - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo: 'Validador de recursos digitales - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+      ],
+    },
+  ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
+  // creditosInicio: [
+  //   {
+  //     titulo: 'En alianza',
+  //     contenido: [
+  //       require('@/assets/template/logo-sena-naranja.svg'),
+  //       require('@/assets/template/mintic.jpg'),
+  //       require('@/assets/template/minsalud.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'En compañía',
+  //     contenido: [
+  //       require('@/assets/template/presidencia.jpg'),
+  //       require('@/assets/template/ecopetrol.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'Una iniciativa',
+  //     contenido: [require('@/assets/template/santander.jpg')],
+  //   },
+  // ],
 }
