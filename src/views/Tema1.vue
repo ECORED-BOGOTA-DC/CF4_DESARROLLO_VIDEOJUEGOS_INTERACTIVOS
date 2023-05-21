@@ -26,7 +26,7 @@
                   h3.mb-1 Unity Instalación
                   p.text-small En el siguiente documento puede consultar el detalle con los pasos de instalación, creación de Unity ID y el tipo de microjuego inicial.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/CF004_Anexo_UnityInstalacion.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/INSTALACION-PDF-2023.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     Separador

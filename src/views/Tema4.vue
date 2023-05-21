@@ -77,7 +77,7 @@
                   h3.mb-1 Unity Luces
                   p.text-small En el siguiente documento encontrará información complementaria de los tipos de luces en Unity.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/LUCES-PDF-2023.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 </template>

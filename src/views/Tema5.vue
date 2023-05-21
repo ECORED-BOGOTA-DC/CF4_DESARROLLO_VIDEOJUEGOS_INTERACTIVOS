@@ -25,7 +25,7 @@
                   h3.mb-1 Unity Cámara
                   p.text-small Información adicional relacionada con las propiedades de cámaras, ejemplos de perspectivas, entre otros, puede consultarla en el siguiente documento.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/CAMARA-PDF-2023.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download   
 </template>

@@ -30,7 +30,7 @@
                   h3.mb-1 Unity interfaz
                   p En el siguiente documento puede consultar información y ejemplos de los tipos de interfaz enunciados previamente.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/INTERFAZ-PDF-2023.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     Separador

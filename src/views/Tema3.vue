@@ -34,7 +34,7 @@
                   h3.mb-1 Unity Terrenos
                   p.text-small En el siguiente documento puede consultar información complementaria relacionada con las propiedades de terreno.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/TERRENOS-PDF-2023.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     p.text-center.mb-4(data-aos="fade-down-right") A continuación, puede visualizar la integración de assets en Unity para la creación de escenarios.
