@@ -10,14 +10,14 @@
       img(src='@/assets/curso/tema3/imagen1.png')
     p.mb-5(data-aos="fade-down-right") Para la composición de escenarios Unity cuenta con herramientas que facilitan su desarrollo, como es el caso de la herramienta editor de terrenos, en la cual se pueden asignar texturas y color a los mismos. Para usar la herramienta crear terrenos se sigue la ruta de <em>GameObject – 3D Object – Terrain</em>, como se muestra a continuación:
     .titulo-sexto.color-acento-contenido(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 11]]
+      p.mb-0 #[b Figura 11]
       p.mb-0 Terrain
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema3/imagen2.png')
       figcaption Nota. Opción crear <em>Terrain</em>.
     p.mb-5(data-aos="fade-down-right") Al hacerlo se forma un plano de recuadros en el escenario, ahora en el panel de Inspector se puede configurar el terreno, como se muestra en la siguiente figura.
     .titulo-sexto.color-acento-contenido(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 12]]
+      p.mb-0 #[b Figura 12]
       p.mb-0 Configurar terreno
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema3/imagen3.png')

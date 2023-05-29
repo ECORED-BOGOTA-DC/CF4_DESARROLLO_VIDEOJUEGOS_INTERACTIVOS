@@ -42,7 +42,7 @@
       .row.justify-content-around(titulo="Paso 1: Image")
         .col-lg-6.mb-4.mb-lg-0
           p Para empezar, lo primero que se debe hacer es ir a la pestaña <em>GameObject – UI – Image</em>, como se muestra en la siguiente figura.  En la pestaña Hierarchy aparece un nuevo elemento llamado canvas, el cual contiene el elemento Image y el evento System.
-          p.mb-4 Los pasos anteriores crearán un rectángulo transparente, el cual es el canvas de la UI, así por ende este es el espacio donde se van a poner los elementos, luego se crea el botón desde <em>GameObjects – UI – Boton</em>.
+          p.mb-4 Los pasos anteriores crearán un rectángulo transparente, el cual es el canvas de la UI, así por ende este es el espacio donde se van a poner los elementos, luego se crea el botón desde <em>GameObjects – UI – Button</em>.
           .row
             .col-sm-auto
               a.boton.color-acento-botones.indicador__container(@click="modal1 = true")

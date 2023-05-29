@@ -30,21 +30,21 @@
         p Para lograr lo anterior, es necesario conocer cómo se deben ubicar y orientar las luces en las diferentes zonas de un nivel para mejorar la apariencia general de una escena, buscando simular un ambiente más realista fortalecido por una adecuado contraste o combinación de colores, que logre transmitir diversas sensaciones y emociones al jugador, de manera que se sumerja profundamente en la historia, por ejemplo, en un tétrico callejón iluminado solo por la luna (objeto fuente de luz) con una luz tenue, debería ubicarse en la parte superior y orientarse hacia el callejón, de manera que se cree un ambiente sombrío, que transmita sensaciones de temor o peligro, debido a que no se puede percibir bien lo que hay en ese entorno; si por el contrario lo que se busca es simular un día soleado, entonces, se podría usar luz de ambiente (<em>ambient light</em>) que no provenga de un objeto específico sino que esté presente en todo el entorno, creando una atmósfera más cálida y brillante que genere sensaciones de bienestar.
     p.my-5(data-aos="fade-down-right") A continuación, se analizará la iluminación en las escenas representadas en las siguientes figuras.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 13]]
+      p.mb-0 #[b Figura 13]
       p.mb-0 Escenas del videojuego <em>Pikmin</em> 3
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema4/imagen4.jpg')
       figcaption Nota. Muestra escena de videojuego. Vidaextra (2013).
     p.mb-4(data-aos="fade-down-left") En <em>Pikmin</em> 3 se presenta un escenario diurno con una luz ambiente que ilumina toda la escena directamente, ocasionando que la definición y contornos de los personajes y demás elementos del entorno se vean más nítidos y que sea fácil de distinguir cada uno de sus detalles, logrando una simulación bastante realista; además, gracias al buen  uso de la paleta de colores, la iluminación hace que estos se vean más vivos y mejor contrastados, contribuyendo a la calidad estética de la escena, la cual logra que el jugador se ubique en ese entorno natural, transmitiendo sensaciones de calidez, armonía y belleza, como se muestra en la siguiente figura.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 14]]
+      p.mb-0 #[b Figura 14]
       p.mb-0 Escenas del videojuego <em>Unravel</em> 2
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema4/imagen5.jpg')
       figcaption Nota. Muestra escena de videojuego. Hdwallsource (s.f.).
     p.mb-4(data-aos="fade-down-right") En contraste con la escena anterior, <em>Unravel</em> 2 presenta un escenario nocturno en donde la fuente de luz está dada por un objeto de alta intensidad lumínica, creando la ilusión de que el entorno se ilumina a causa de una gran chispa brillante, la cual permite observar con mayor claridad los detalles de los objetos cercanos; sin embargo, al alejar la vista del foco de luz se pierde por completo los detalles, logrando percibir solamente algunas sombras, siluetas y contornos de los árboles y montañas que se muestran al fondo; aun así,  aunque se trate de una escena no tan clara, los efectos de contrastes, luces y sombras logrados gracias al posicionamiento y direccionamiento de la luz hace que se genere una simulación bastante realista.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 15]]
+      p.mb-0 #[b Figura 15]
       p.mb-0 Escenas videojuegos <em>Silent hill</em> 2 y <em>Resident evil 2 remake</em>
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema4/imagen6.jpg')

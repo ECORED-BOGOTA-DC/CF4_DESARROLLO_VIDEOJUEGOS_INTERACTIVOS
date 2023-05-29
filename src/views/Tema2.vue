@@ -19,21 +19,21 @@
     .row.justify-content-center
       .col-lg-8.col-md-10.col-sm-11.col-12
         .titulo-sexto.color-acento-contenido(data-aos="fade-down-right")
-          p.mb-0 #[b #[i Figura 2]]
+          p.mb-0 #[b Figura 2]
           p.mb-0 Menú GameObject
         figure.my-4(data-aos="fade-down-left")
           img(src='@/assets/curso/tema2/imagen2.svg')
           figcaption Nota. Opción menú GameObject.
     p.mb-5(data-aos="fade-down-right") Después se selecciona la opción Cube del menú 3D Object, como se muestra en la siguiente figura.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 3]]
+      p.mb-0 #[b Figura 3]
       p.mb-0 Crear cubo
     figure.mb-4(data-aos="fade-down-left")
       img(src='@/assets/curso/tema2/imagen3.svg')
       figcaption Nota. Opción menú crear cubo.
     p.mb-5(data-aos="fade-down-right") Una vez hecho esto, en el escenario se incluirá un cubo. Para mover los objetos en el escenario, en la parte superior izquierda se encuentran 3 iconos: mover, rotar y escalar, como se resalta en la siguiente figura.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 4]]
+      p.mb-0 #[b Figura 4]
       p.mb-0 Mover, rotar, escalar
     figure.mb-4(data-aos="fade-down-left")
       img(src='@/assets/curso/tema2/imagen4.svg')
@@ -100,7 +100,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8.col-md-10.col-sm-12
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-          p.mb-0 #[b #[i Figura 5]]
+          p.mb-0 #[b Figura 5]
           p.mb-0 Ventana Project
         figure(data-aos="fade-down-right")
           img(src='@/assets/curso/tema2/imagen11.svg', alt='Ventana <em>Project</em>')
@@ -113,7 +113,7 @@
       li(data-aos="fade-down-right") 
         .lista-ol--cuadro__vineta
           span 2
-        |  En assets se pueden agregar elementos y organizarlos por carpetas.  También se puede usar la sección de favoritos en la cual estarán los elementos más utilizados.
+        |  En Assets se pueden agregar elementos y organizarlos por carpetas.  También se puede usar la sección de favoritos en la cual estarán los elementos más utilizados.
       li(data-aos="fade-down-right") 
         .lista-ol--cuadro__vineta
           span 3
@@ -136,7 +136,7 @@
         h2.mb-0.text-white Ventana Scene View
     p.mb-5(data-aos="fade-down-left") En esta ventana se crean los escenarios y se posicionan los elementos que se requieren para su construcción, tales como cámaras, luces, entre otros. A continuación, se enumeran algunos de sus componentes:
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 6]]
+      p.mb-0 #[b Figura 6]
       p.mb-0 Ventana Scene View
     figure.mb-4(data-aos="fade-down-right")
       img(src='@/assets/curso/tema2/imagen11.svg', alt='Ventana <em>Scene View</em>')
@@ -144,14 +144,14 @@
     p(data-aos="fade-down-left") Los iconos de la sección navegación permiten desplazarse por la escena, y los de la sección transformación permiten rotar, mover  y escalar los objetos en la escena.
     p.mb-4(data-aos="fade-down-left") La pestaña Shaded permite modificar la manera en que se visualiza el escenario, se puede cambiar a una vista alambrada para observar los polígonos que componen los elementos, como se muestra a continuación:
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 7]]
+      p.mb-0 #[b Figura 7]
       p.mb-0 Shaded
     figure.mb-4(data-aos="fade-down-left")
       img(src='@/assets/curso/tema2/imagen12.svg', alt='<em>shaded</em>')
       figcaption Elementos ventana Shaded.
     p.mb-4(data-aos="fade-down-left") Con los botones señalados en la siguiente figura se puede activar o desactivar de la escena las luces, los sonidos y la ambientación.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 8]]
+      p.mb-0 #[b Figura 8]
       p.mb-0 Botones de activación
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema2/imagen13.svg', alt='<em>Shaded</em> - botones de activación')
@@ -162,7 +162,7 @@
         h2.mb-0.text-white Ventana Game View
     p.mb-4(data-aos="fade-down-right") Aquí se puede visualizar la compilación de los objetos y funciones del videojuego a través de la cámara que los esté observando.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 9]]
+      p.mb-0 #[b Figura 9]
       p.mb-0 Game View
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema2/imagen14.svg', alt='Elementos ventana <em>Game View</em>')
@@ -197,8 +197,8 @@
       .col-lg-5.col-md-12.mb-4.mb-lg-0(data-aos="fade-down-right")
         p.mb-4 A través de la ventana Project se crean las carpetas para organizar el proyecto como se muestra a continuación:
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-          h5 Figura 10. 
-          span Tipos de archivos.
+          p.mb-0 #[b Figura 10]
+          p.mb-0  Tipos de archivos.
         .row
           .col-lg-10.col-md-12
             figure.mb-5(data-aos="fade-down-left")
@@ -281,6 +281,7 @@
           p.mb-4 Una vez importado el archivo de audio se puede escuchar en el panel Inspector, en la parte inferior, dando clic en el botón Play, como se muestra en la siguiente figura.
           figure
             img(src='@/assets/curso/tema2/imagen31.png')
+            figcaption Nota. Play archivo de audio.
         .col-lg-5
 
 </template>

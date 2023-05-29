@@ -8,7 +8,7 @@
       h1 Cámaras
     p.mb-4(data-aos="fade-down-left") La cámara principal es la que se utiliza por defecto, que es la que muestra el visor de la escena general, la cual se puede rotar e interactuar con ella, desde la posición de perspectiva y el modo ortográfico, con el gizmo ubicado en la parte superior derecha se puede observar que tiene unos ejes y un cuadro amarillo. Con ellos clicando encima se puede navegar perspectiva y vista ortogonal, esto permite poder diseñar de una forma más cómoda y precisa, como se muestra la siguiente figura.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 16]]
+      p.mb-0 #[b Figura 16]
       p.mb-0 Vista ortogonal y perspectiva
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema5/imagen1.jpg')

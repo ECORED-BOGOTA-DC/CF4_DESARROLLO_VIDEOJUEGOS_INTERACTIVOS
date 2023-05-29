@@ -35,7 +35,7 @@
     p(data-aos="fade-down-right") Después de finalizada la creación del proyecto se muestra la interfaz de Unity como se ve en la siguiente imagen.  
     p.mb-5(data-aos="fade-down-right") En dicha pantalla se puede ver el entorno 3D y las pestañas, desde allí se puede configurar la interfaz según la necesidad requerida.
     .titulo-sexto.color-acento-contenido(data-aos="fade-down-right")
-      p.mb-0 #[b #[i Figura 1]]
+      p.mb-0 #[b Figura 1]
       p.mb-0 Interfaz Unity
     figure.mb-5(data-aos="fade-down-right")
       img(src='@/assets/curso/tema1/imagen2.png', alt='Interfaz')
@@ -148,7 +148,7 @@
           figure
             img(src='@/assets/curso/tema1/imagen10.png')
           .div.fondo-2.p-2
-            p.text-small.mb-0 Nota. Movimiento escenario - <em>zoom</em>.
+            p.text-small.mb-0 Nota. Movimiento escenario - Zoom.
       .row.justify-content-around(titulo="Vista")
         .col-md-5.mb-4.mb-md-0
           p Si se mantiene la tecla alt + clic izquierdo se puede girar la vista en torno al punto central de la misma, como se muestra en la siguiente figura.
