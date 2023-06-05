@@ -326,13 +326,13 @@ export default {
             'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital',
         },
         {
-          nombre: 'Gloria Amparo Lopez Escudero',
+          nombre: 'Gloria Amparo López Escudero',
           cargo: 'Adecuadora instruccional - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Andres Felipe Velandia Espitia',
+          nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Metodólogo para la formación virtual - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
