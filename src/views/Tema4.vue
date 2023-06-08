@@ -31,21 +31,21 @@
     p.my-5(data-aos="fade-down-right") A continuación, se analizará la iluminación en las escenas representadas en las siguientes figuras.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
       p.mb-0 #[b Figura 13]
-      p.mb-0 Escenas del videojuego <em>Pikmin</em> 3
+      p.mb-0 Escenas del videojuego Pikmin 3
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema4/imagen4.jpg')
       figcaption Nota. Muestra escena de videojuego. Vidaextra (2013).
-    p.mb-4(data-aos="fade-down-left") En <em>Pikmin</em> 3 se presenta un escenario diurno con una luz ambiente que ilumina toda la escena directamente, ocasionando que la definición y contornos de los personajes y demás elementos del entorno se vean más nítidos y que sea fácil de distinguir cada uno de sus detalles, logrando una simulación bastante realista; además, gracias al buen  uso de la paleta de colores, la iluminación hace que estos se vean más vivos y mejor contrastados, contribuyendo a la calidad estética de la escena, la cual logra que el jugador se ubique en ese entorno natural, transmitiendo sensaciones de calidez, armonía y belleza, como se muestra en la siguiente figura.
+    p.mb-4(data-aos="fade-down-left") En Pikmin 3 se presenta un escenario diurno con una luz ambiente que ilumina toda la escena directamente, ocasionando que la definición y contornos de los personajes y demás elementos del entorno se vean más nítidos y que sea fácil de distinguir cada uno de sus detalles, logrando una simulación bastante realista; además, gracias al buen  uso de la paleta de colores, la iluminación hace que estos se vean más vivos y mejor contrastados, contribuyendo a la calidad estética de la escena, la cual logra que el jugador se ubique en ese entorno natural, transmitiendo sensaciones de calidez, armonía y belleza, como se muestra en la siguiente figura.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
       p.mb-0 #[b Figura 14]
-      p.mb-0 Escenas del videojuego <em>Unravel</em> 2
+      p.mb-0 Escenas del videojuego Unravel 2
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema4/imagen5.jpg')
       figcaption Nota. Muestra escena de videojuego. Hdwallsource (s.f.).
-    p.mb-4(data-aos="fade-down-right") En contraste con la escena anterior, <em>Unravel</em> 2 presenta un escenario nocturno en donde la fuente de luz está dada por un objeto de alta intensidad lumínica, creando la ilusión de que el entorno se ilumina a causa de una gran chispa brillante, la cual permite observar con mayor claridad los detalles de los objetos cercanos; sin embargo, al alejar la vista del foco de luz se pierde por completo los detalles, logrando percibir solamente algunas sombras, siluetas y contornos de los árboles y montañas que se muestran al fondo; aun así,  aunque se trate de una escena no tan clara, los efectos de contrastes, luces y sombras logrados gracias al posicionamiento y direccionamiento de la luz hace que se genere una simulación bastante realista.
+    p.mb-4(data-aos="fade-down-right") En contraste con la escena anterior, Unravel 2 presenta un escenario nocturno en donde la fuente de luz está dada por un objeto de alta intensidad lumínica, creando la ilusión de que el entorno se ilumina a causa de una gran chispa brillante, la cual permite observar con mayor claridad los detalles de los objetos cercanos; sin embargo, al alejar la vista del foco de luz se pierde por completo los detalles, logrando percibir solamente algunas sombras, siluetas y contornos de los árboles y montañas que se muestran al fondo; aun así,  aunque se trate de una escena no tan clara, los efectos de contrastes, luces y sombras logrados gracias al posicionamiento y direccionamiento de la luz hace que se genere una simulación bastante realista.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
       p.mb-0 #[b Figura 15]
-      p.mb-0 Escenas videojuegos <em>Silent hill</em> 2 y <em>Resident evil 2 remake</em>
+      p.mb-0 Escenas videojuegos Silent hill 2 y Resident evil 2 remake
     figure.mb-5(data-aos="fade-down-left")
       img(src='@/assets/curso/tema4/imagen6.jpg')
       figcaption Nota. Muestra escenas de videojuegos. Herrera (2013) y Azevedo (2019).

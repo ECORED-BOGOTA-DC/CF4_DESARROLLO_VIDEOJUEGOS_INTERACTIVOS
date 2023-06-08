@@ -198,7 +198,7 @@
         p.mb-4 A través de la ventana Project se crean las carpetas para organizar el proyecto como se muestra a continuación:
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
           p.mb-0 #[b Figura 10]
-          p.mb-0  Tipos de archivos.
+          p.mb-0  Tipos de archivos
         .row
           .col-lg-10.col-md-12
             figure.mb-5(data-aos="fade-down-left")

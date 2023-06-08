@@ -29,25 +29,25 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Interfaz y flujo de integración de <em>Unity 3D</em>',
+        titulo: 'Interfaz y flujo de integración de Unity 3D',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Instalación de <em>Unity 3D</em>',
+            titulo: 'Instalación de Unity 3D',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Navegación en <em>Unity 3D</em>',
+            titulo: 'Navegación en Unity 3D',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Escenario y ventanas de <em>Unity 3D</em>',
+            titulo: 'Escenario y ventanas de Unity 3D',
             hash: 't_1_3',
           },
         ],
@@ -56,7 +56,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: '<em>Unity 3D</em> importar elementos 3D - <em>assets</em>',
+        titulo: 'Unity 3D importar elementos 3D - <em>assets</em>',
         desarrolloContenidos: true,
       },
       {
@@ -82,7 +82,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.2',
-            titulo: 'Luces en <em>Unity 3D</em>',
+            titulo: 'Luces en Unity 3D',
             hash: 't_4_2',
           },
         ],
@@ -154,7 +154,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/material.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -270,7 +270,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricía Aristizábal Gutiérrez',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
