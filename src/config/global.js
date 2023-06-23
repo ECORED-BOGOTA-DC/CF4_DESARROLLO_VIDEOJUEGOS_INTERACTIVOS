@@ -236,6 +236,11 @@ export default {
       significado:
         'Son escenas o acciones preestablecidas o programadas con anterioridad en el videojuego y se desarrollan independientemente de lo que haga el jugador.',
     },
+    {
+      termino: 'FBX',
+      significado:
+        'Son extensiones o formatos que permiten abrir, editar o modificar archivos con contenidos digitales, facilitando el intercambioentre aplicaciones.',
+    },
   ],
   referencias: [
     {

@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 Este componente formativo abordó todo lo que tiene que ver con el manejo de la interfaz de Unity, su instalación, la formación de navegación,  las ventanas que son importantes a la hora de crear escenarios, propios, entre otros temas indispensables e la hora de desarrollar los proyectos de videojuegos. A continuación podrá observar el esquema de temas que componen esta temática.
+    p.mb-5 Este componente formativo abordó todo lo que tiene que ver con el manejo de la interfaz de Unity, su instalación, la formación de navegación,  las ventanas que son importantes a la hora de crear escenarios, propios, entre otros temas indispensables e la hora de desarrollar los proyectos de videojuegos. A continuación, podrá observar el esquema de temas que componen esta temática.
     .row.justify-content-center
       .col-lg-8.mb-5
         figure

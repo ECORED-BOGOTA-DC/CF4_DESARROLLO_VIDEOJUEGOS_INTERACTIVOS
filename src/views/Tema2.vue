@@ -273,7 +273,7 @@
             img(src='@/assets/curso/tema2/imagen29.png')
             figcaption Nota. Ejemplo aplicación textura.
         .col-lg-5.mb-4
-          p.mb-4 De la misma manera se agregan archivos en formato .mp3. wav. ogg. Para el caso del ejemplo se usará .mp3, la manera de integrarlo es idéntica, arrastrándolos desde la carpeta del computador al proyecto, como se muestra a continuación:
+          p.mb-4 De la misma manera se agregan archivos en formato .mp3 .wav .ogg. Para el caso del ejemplo se usará .mp3, la manera de integrarlo es idéntica, arrastrándolos desde la carpeta del computador al proyecto, como se muestra a continuación:
           figure
             img(src='@/assets/curso/tema2/imagen30.png')
             figcaption Nota. Ejemplo agregar archivos de audio.
