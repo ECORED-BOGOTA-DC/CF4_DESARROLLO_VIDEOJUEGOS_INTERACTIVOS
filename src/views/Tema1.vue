@@ -82,12 +82,12 @@
         .col-md-11.mb-4.mb-md-0
           p Al lado derecho se muestra la pestaña Inspector, en la cual se pueden modificar los atributos y propiedades de cada elemento, como se muestra en las siguientes figuras:
         .row.justify-content-around
-          .col-lg-10.mb-4
+          .col-lg-11.mb-4
             figure
               img(src='@/assets/curso/tema1/img3.png')
             .div.fondo-2.p-2
               p.text-small.mb-0 Nota. Pestaña Inspector. 
-          .col-lg-10
+          .col-lg-11
             figure
               img(src='@/assets/curso/tema1/img4.png')
             .div.fondo-2.p-2
@@ -95,17 +95,19 @@
       .row.justify-content-around(titulo="Project")
         .col-md-11.mb-4.mb-md-0
           p En la parte inferior izquierda se encuentra la pestaña Project, que es de suma importancia, pues allí se agregarán archivos externos a Unity como sonidos, texturas, imágenes, entre otros; los cuales pueden anexarse simplemente arrastrándolos, dando clic en la pestaña Assets - crear como se muestra en la siguiente figura.
-        .row.justify-content-around
-          .col-lg-10.mb-4
-            figure
-              img(src='@/assets/curso/tema1/img5.png')
-            .div.fondo-2.p-2
-              p.text-small.mb-0 Nota. Opciones pestaña <em>Project</em>.
-          .col-lg-10
-            figure
-              img(src='@/assets/curso/tema1/img6.png')
-            .div.fondo-2.p-2
-              p.text-small.mb-0 Nota. Opciones pestaña <em>Project - Create</em>.
+          .row.justify-content-around
+            .col-lg-11.mb-4
+              figure
+                img(src='@/assets/curso/tema1/img5.png')
+              .div.fondo-2.p-2
+                p.text-small.mb-0 Nota. Opciones pestaña <em>Project</em>.
+          P O directamente en la ventana Project, dando clic derecho en Create como se muestra en la siguiente figura:
+          .row.justify-content-around
+            .col-lg-11
+              figure
+                img(src='@/assets/curso/tema1/img6.png')
+              .div.fondo-2.p-2
+                p.text-small.mb-0 Nota. Opciones pestaña <em>Project - Create</em>.
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 1.3 Escenario y ventanas de Unity 3D
