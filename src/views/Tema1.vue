@@ -38,7 +38,7 @@
       p.mb-0 #[b Figura 1]
       p.mb-0 Interfaz Unity
     figure.mb-5(data-aos="fade-down-right")
-      img(src='@/assets/curso/tema1/imagen2.png', alt='Interfaz')
+      img(src='@/assets/curso/tema1/img1.png', alt='Interfaz')
       figcaption  Nota. Pantalla principal proyecto Unity.
     p.mb-5(data-aos="fade-down-left") Además, puede configurar la interfaz de Unity 3D según la necesidad requerida a través de las siguientes opciones:
     AcordionA(data-aos="fade-down-right").mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
@@ -71,39 +71,39 @@
             .row.justify-content-center
               .col-auto
                 figure
-                  img(src='@/assets/curso/tema1/imagen4.png', style="width: 850px")
+                  img(src='@/assets/curso/tema1/img2.png', style="width: 1050px")
                   figcaption Nota. Opciones pestaña <em>Scene</em>.
         .col-md-5
           figure
-            img(src='@/assets/curso/tema1/imagen4.png')
+            img(src='@/assets/curso/tema1/img2.png')
           .div.fondo-2.p-2
             p.text-small.mb-0 Nota. Opciones pestaña <em>Scene</em>.
       .row.justify-content-around(titulo="Inspector")
         .col-md-11.mb-4.mb-md-0
           p Al lado derecho se muestra la pestaña Inspector, en la cual se pueden modificar los atributos y propiedades de cada elemento, como se muestra en las siguientes figuras:
         .row.justify-content-around
-          .col-md-5
+          .col-lg-10.mb-4
             figure
-              img(src='@/assets/curso/tema1/imagen5.png')
+              img(src='@/assets/curso/tema1/img3.png')
             .div.fondo-2.p-2
               p.text-small.mb-0 Nota. Pestaña Inspector. 
-          .col-md-5
+          .col-lg-10
             figure
-              img(src='@/assets/curso/tema1/imagen6.png')
+              img(src='@/assets/curso/tema1/img4.png')
             .div.fondo-2.p-2
               p.text-small.mb-0 Nota. Opciones Inspector.
       .row.justify-content-around(titulo="Project")
         .col-md-11.mb-4.mb-md-0
           p En la parte inferior izquierda se encuentra la pestaña Project, que es de suma importancia, pues allí se agregarán archivos externos a Unity como sonidos, texturas, imágenes, entre otros; los cuales pueden anexarse simplemente arrastrándolos, dando clic en la pestaña Assets - crear como se muestra en la siguiente figura.
         .row.justify-content-around
-          .col-md-5
+          .col-lg-10.mb-4
             figure
-              img(src='@/assets/curso/tema1/imagen7.png')
+              img(src='@/assets/curso/tema1/img5.png')
             .div.fondo-2.p-2
               p.text-small.mb-0 Nota. Opciones pestaña <em>Project</em>.
-          .col-md-5
+          .col-lg-10
             figure
-              img(src='@/assets/curso/tema1/imagen8.png')
+              img(src='@/assets/curso/tema1/img6.png')
             .div.fondo-2.p-2
               p.text-small.mb-0 Nota. Opciones pestaña <em>Project - Create</em>.
     Separador
@@ -124,11 +124,11 @@
             .row.justify-content-center
               .col-auto
                 figure
-                  img(src='@/assets/curso/tema1/imagen9.png', style="width: 850px")
+                  img(src='@/assets/curso/tema1/img7.png', style="width: 950px")
                   figcaption Nota. Identificación bordes cambio de tamaño 
         .col-md-5
           figure
-            img(src='@/assets/curso/tema1/imagen9.png')
+            img(src='@/assets/curso/tema1/img7.png')
           .div.fondo-2.p-2
             p.text-small.mb-0 Nota. Identificación bordes cambio de tamaño escena.
       .row.justify-content-around(titulo="Zoom")
@@ -142,11 +142,11 @@
             .row.justify-content-center
               .col-auto
                 figure
-                  img(src='@/assets/curso/tema1/imagen10.png', style="width: 850px")
+                  img(src='@/assets/curso/tema1/img8.png', style="width: 950px")
                   figcaption Nota. Movimiento escenario - Zoom.
         .col-md-5
           figure
-            img(src='@/assets/curso/tema1/imagen10.png')
+            img(src='@/assets/curso/tema1/img8.png')
           .div.fondo-2.p-2
             p.text-small.mb-0 Nota. Movimiento escenario - Zoom.
       .row.justify-content-around(titulo="Vista")
@@ -160,11 +160,11 @@
             .row.justify-content-center
               .col-auto
                 figure
-                  img(src='@/assets/curso/tema1/imagen11.png', style="width: 850px")
+                  img(src='@/assets/curso/tema1/img9.png', style="width: 950px")
                   figcaption Nota. Movimiento escenario - vista. 
         .col-md-5
           figure
-            img(src='@/assets/curso/tema1/imagen11.png')
+            img(src='@/assets/curso/tema1/img9.png')
           .div.fondo-2.p-2
             p.text-small.mb-0 Nota. Movimiento escenario - vista.
 

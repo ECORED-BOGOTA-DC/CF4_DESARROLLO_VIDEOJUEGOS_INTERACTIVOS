@@ -13,14 +13,14 @@
       p.mb-0 #[b Figura 11]
       p.mb-0 Terrain
     figure.mb-5(data-aos="fade-down-left")
-      img(src='@/assets/curso/tema3/imagen2.png')
+      img(src='@/assets/curso/tema3/img1.png')
       figcaption Nota. Opción crear <em>Terrain</em>.
     p.mb-5(data-aos="fade-down-right") Al hacerlo se forma un plano de recuadros en el escenario, ahora en el panel de Inspector se puede configurar el terreno, como se muestra en la siguiente figura.
     .titulo-sexto.color-acento-contenido(data-aos="fade-down-right")
       p.mb-0 #[b Figura 12]
       p.mb-0 Configurar terreno
     figure.mb-5(data-aos="fade-down-left")
-      img(src='@/assets/curso/tema3/imagen3.png')
+      img(src='@/assets/curso/tema3/img2.png')
       figcaption Nota. Opciones de configuración terreno.
     .row.justify-content-center.mb-4(data-aos="fade-down-right")
       .col-lg-10.col-11

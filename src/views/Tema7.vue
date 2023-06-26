@@ -53,11 +53,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen3.png', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img1.png', style="width: 950px")
                       figcaption Nota. Ejemplo creación interfaz.
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen3.png')
+            img(src='@/assets/curso/tema7/img1.png')
             figcaption Nota. Ejemplo creación interfaz.
       .row.justify-content-around(titulo="Paso 2: Canva")
         .col-lg-6.mb-4.mb-lg-0
@@ -72,11 +72,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen4.png', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img2.png', style="width: 950px")
                       figcaption Nota. Ejemplo creación interfaz – Render Mode.
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen4.png')
+            img(src='@/assets/curso/tema7/img2.png')
             figcaption Nota. Ejemplo creación interfaz – Render Mode.
       .row.justify-content-around(titulo="Paso 3: texto botón")
         .col-lg-6.mb-4.mb-lg-0
@@ -91,11 +91,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen5.jpg', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img3.png', style="width: 950px")
                       figcaption Nota. Ejemplo creación interfaz – texto botón.
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen5.jpg')
+            img(src='@/assets/curso/tema7/img3.png')
             figcaption Nota. Ejemplo creación interfaz – texto botón.
       .row.justify-content-around(titulo="Paso 4: barra vida")
         .col-lg-6.mb-4.mb-lg-0
@@ -110,11 +110,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen6.jpg', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img4.png', style="width: 950px")
                       figcaption  Nota. Ejemplo creación interfaz – barra vida.
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen6.jpg')
+            img(src='@/assets/curso/tema7/img4.png')
             figcaption  Nota. Ejemplo creación interfaz – barra vida.
       .row.justify-content-around(titulo="Paso 5: Slider – Fill Area")
         .col-lg-6.mb-4.mb-lg-0
@@ -129,11 +129,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen7.jpg', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img5.png', style="width: 950px")
                       figcaption  Nota. Ejemplo creación interfaz – Fill Area.                    
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen7.jpg')
+            img(src='@/assets/curso/tema7/img5.png')
             figcaption  Nota. Ejemplo creación interfaz – Fill Area.
       .row.justify-content-around(titulo="Paso 6: Slider - Handle Slide Area")
         .col-lg-6.mb-4.mb-lg-0
@@ -148,11 +148,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen8.jpg', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img6.png', style="width: 950px")
                       figcaption Nota. Ejemplo creación interfaz – Handle Slide Area.
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen8.jpg')
+            img(src='@/assets/curso/tema7/img6.png')
             figcaption Nota. Ejemplo creación interfaz – Handle Slide Area.
       .row.justify-content-around(titulo="Paso 7: Slider - Value")
         .col-lg-6.mb-4.mb-lg-0
@@ -167,11 +167,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen9.jpg', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img7.png', style="width: 950px")
                       figcaption Nota. Ejemplo creación interfaz – Slider.
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen9.jpg')
+            img(src='@/assets/curso/tema7/img7.png')
             figcaption Nota. Ejemplo creación interfaz – Slider.
       .row.justify-content-around(titulo="Paso 8: título")
         .col-lg-6.mb-4.mb-lg-0
@@ -186,11 +186,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen10.jpg', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img8.png', style="width: 950px")
                       figcaption Nota. Ejemplo creación interfaz – título.
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen10.jpg')
+            img(src='@/assets/curso/tema7/img8.png')
             figcaption Nota. Ejemplo creación interfaz – título.
       .row.justify-content-around(titulo="Paso 9: interfaz final")
         .col-lg-6.mb-4.mb-lg-0
@@ -205,11 +205,11 @@
                 .row.justify-content-center
                   .col-auto
                     figure
-                      img(src='@/assets/curso/tema7/imagen11.jpg', style="width: 850px")
+                      img(src='@/assets/curso/tema7/img9.png', style="width: 950px")
                       figcaption Nota. Ejemplo creación interfaz – elementos agregados.
         .col-lg-5.mb-5
           figure
-            img(src='@/assets/curso/tema7/imagen11.jpg')
+            img(src='@/assets/curso/tema7/img9.png')
             figcaption Nota. Ejemplo creación interfaz – elementos agregados.
 
 </template>

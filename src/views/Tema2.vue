@@ -29,14 +29,14 @@
       p.mb-0 #[b Figura 3]
       p.mb-0 Crear cubo
     figure.mb-4(data-aos="fade-down-left")
-      img(src='@/assets/curso/tema2/imagen3.svg')
+      img(src='@/assets/curso/tema2/img1.png')
       figcaption Nota. Opción menú crear cubo.
     p.mb-5(data-aos="fade-down-right") Una vez hecho esto, en el escenario se incluirá un cubo. Para mover los objetos en el escenario, en la parte superior izquierda se encuentran 3 iconos: mover, rotar y escalar, como se resalta en la siguiente figura.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
       p.mb-0 #[b Figura 4]
       p.mb-0 Mover, rotar, escalar
     figure.mb-4(data-aos="fade-down-left")
-      img(src='@/assets/curso/tema2/imagen4.svg')
+      img(src='@/assets/curso/tema2/img2.png')
       figcaption Nota. Opciones iconos mover, rotar, escalar.
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b")
@@ -98,12 +98,12 @@
         h2.mb-0.text-white Ventana Project
     p.mb-5(data-aos="fade-down-right") Esta ventana es la que contendrá los elementos del proyecto, su carpeta estará asociada a una carpeta en el computador.  A continuación, se encuentra una figura en la que se enumeran algunos de sus componentes:
     .row.justify-content-center.mb-5
-      .col-lg-8.col-md-10.col-sm-12
+      .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
           p.mb-0 #[b Figura 5]
           p.mb-0 Ventana Project
         figure(data-aos="fade-down-right")
-          img(src='@/assets/curso/tema2/imagen11.svg', alt='Ventana <em>Project</em>')
+          img(src='@/assets/curso/tema2/img3.png', alt='Ventana Project')
           figcaption Elementos ventana Project
     ol.lista-ol--cuadro.lista-ol--separador.mb-5
       li(data-aos="fade-down-right") 
@@ -135,38 +135,45 @@
       .col-auto.fondo-3.px-4.py-2
         h2.mb-0.text-white Ventana Scene View
     p.mb-5(data-aos="fade-down-left") En esta ventana se crean los escenarios y se posicionan los elementos que se requieren para su construcción, tales como cámaras, luces, entre otros. A continuación, se enumeran algunos de sus componentes:
-    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b Figura 6]
-      p.mb-0 Ventana Scene View
-    figure.mb-4(data-aos="fade-down-right")
-      img(src='@/assets/curso/tema2/imagen11.svg', alt='Ventana <em>Scene View</em>')
-      figcaption Elementos ventana Scene View.
+    .row.justify-content-center
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
+          p.mb-0 #[b Figura 6]
+          p.mb-0 Ventana Scene View
+        figure.mb-4(data-aos="fade-down-right")
+          img(src='@/assets/curso/tema2/img4.png', alt='Ventana Scene View')
+          figcaption Elementos ventana Scene View.
     p(data-aos="fade-down-left") Los iconos de la sección navegación permiten desplazarse por la escena, y los de la sección transformación permiten rotar, mover  y escalar los objetos en la escena.
     p.mb-4(data-aos="fade-down-left") La pestaña Shaded permite modificar la manera en que se visualiza el escenario, se puede cambiar a una vista alambrada para observar los polígonos que componen los elementos, como se muestra a continuación:
-    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b Figura 7]
-      p.mb-0 Shaded
-    figure.mb-4(data-aos="fade-down-left")
-      img(src='@/assets/curso/tema2/imagen12.svg', alt='<em>shaded</em>')
-      figcaption Elementos ventana Shaded.
+    .row.justify-content-center
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
+          p.mb-0 #[b Figura 7]
+          p.mb-0 Shaded
+        figure.mb-4(data-aos="fade-down-left")
+          img(src='@/assets/curso/tema2/img5.png', alt='<em>shaded</em>')
+          figcaption Elementos ventana Shaded.
     p.mb-4(data-aos="fade-down-left") Con los botones señalados en la siguiente figura se puede activar o desactivar de la escena las luces, los sonidos y la ambientación.
-    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b Figura 8]
-      p.mb-0 Botones de activación
-    figure.mb-5(data-aos="fade-down-left")
-      img(src='@/assets/curso/tema2/imagen13.svg', alt='<em>Shaded</em> - botones de activación')
-      figcaption Elementos ventana Shaded - botones de activación.
-    //- titulo con fondo
+    .row.justify-content-center
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
+          p.mb-0 #[b Figura 8]
+          p.mb-0 Botones de activación
+        figure.mb-5(data-aos="fade-down-left")
+          img(src='@/assets/curso/tema2/img6.png', alt='<em>Shaded</em> - botones de activación')
+          figcaption Elementos ventana Shaded - botones de activación.
     .row.mb-4(data-aos="fade-down-right")
       .col-auto.fondo-3.px-4.py-2
         h2.mb-0.text-white Ventana Game View
     p.mb-4(data-aos="fade-down-right") Aquí se puede visualizar la compilación de los objetos y funciones del videojuego a través de la cámara que los esté observando.
-    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
-      p.mb-0 #[b Figura 9]
-      p.mb-0 Game View
-    figure.mb-5(data-aos="fade-down-left")
-      img(src='@/assets/curso/tema2/imagen14.svg', alt='Elementos ventana <em>Game View</em>')
-      figcaption Nota. Elementos ventana Game View.
+    .row.justify-content-center
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-down-right")
+          p.mb-0 #[b Figura 9]
+          p.mb-0 Game View
+        figure.mb-5(data-aos="fade-down-left")
+          img(src='@/assets/curso/tema2/img7.png', alt='Elementos ventana <em>Game View</em>')
+          figcaption Nota. Elementos ventana Game View.
     ul.lista-ul--color.lista-ul--separador.mb-5
       li(data-aos="fade-down-left")
         i.fas.fa-cube
@@ -208,81 +215,75 @@
         img(src='@/assets/curso/tema2/imagen16.jpg')
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade-down-right")
       .row.justify-content-around(titulo="Archivo tipo escena")
-        .col-lg-11.mb-4.mb-lg-0
+        .col-12
           p.mb-4 Se crea por defecto al abrir un proyecto nuevo y se ubica en la carpeta <em>scenes</em>.  Una escena es similar a un nivel del videojuego, esta contendrá elementos tales como cámaras, luces, personajes, acciones y comportamientos específicos en ella. Por ello, si se necesitan más escenas para crear por ejemplo nuevos niveles, la forma de hacerlo sería en el menú principal, <em>File - New Scene</em> o utilizando el comando control + N. Ver ejemplos en las siguientes figuras:
-
-        .col-lg-5.mb-5
+        .col-lg-10.mb-4
           figure
-            img(src='@/assets/curso/tema2/imagen23.png')
+            img(src='@/assets/curso/tema2/img8.png')
             figcaption Nota. Elementos ventana <em>New Scene</em>.
-        .col-lg-5.mb-5
+        .col-lg-10
           figure
-            img(src='@/assets/curso/tema2/imagen18.png')
+            img(src='@/assets/curso/tema2/img9.png')
             figcaption Nota. Elementos ventana <em>New Scene</em> - clic derecho ventana inferior, <em>Create - Scene</em>.
 
       .row.justify-content-around(titulo="Archivo tipo material")
-        .col-lg-11.mb-4.mb-lg-0
+        .col-12
           p.mb-4 El material es la forma en que se van a ver los objetos, es decir, características como texturas, color, relieve, entre otros.  Lo primero que se hará es crear una carpeta para mantener organizados los elementos, esta carpeta se ubicará en la pestaña <em>assets</em> de proyecto, una vez creada (clic derecho Create - Folder) se da doble clic en ella. Las siguientes figuras muestran dichos ejemplos:
-
-        .col-lg-5.mb-4.mb-lg-0
+        .col-lg-5.mb-4
           figure
             img(src='@/assets/curso/tema2/imagen21.png')
             figcaption Nota. Elementos carpeta materiales.
-        .col-lg-5.mb-4.mb-lg-0
+        .col-12.mb-4
           figure
-            img(src='@/assets/curso/tema2/imagen24.png')
+            img(src='@/assets/curso/tema2/img10.png')
             figcaption Nota. Elementos ventana Create Material - clic derecho dentro de la carpeta, Create - Material.
-
-        .col-lg-5.mb-4.mb-lg-0
+        .col-12.mb-4
           p.mb-4 Al ejecutar el paso descrito previamente aparecerá el material, y a la derecha en la pestaña inspector mostrará sus atributos o especificaciones, como puede verse en la siguiente figura:
           figure
-            img(src='@/assets/curso/tema2/imagen19.png')
+            img(src='@/assets/curso/tema2/img11.png')
             figcaption Nota. Elementos ventana Inspector - Material.
-        .col-lg-5
+        .col-12
           p.mb-4 En este caso se selecciona <em>Shader - Standard</em> en la pestaña Inspector, se pueden cambiar características como por ejemplo el color una vez teniendo el material, en este caso un color simple sin más se procede a aplicarlo al objeto manteniendo presionado clic en el material y arrastrándolo encima del objeto, al hacerlo, este cambia tal como se muestra a continuación:
           figure
-            img(src='@/assets/curso/tema2/imagen20.png')
+            img(src='@/assets/curso/tema2/img12.png')
             figcaption Nota. Ejemplo aplicación material a objeto.
-            
       .row.justify-content-around(titulo="Archivo tipo <em>script</em>")
-        .col-lg-5.mb-4.mb-lg-0
-          p.mb-4 Son instrucciones de programación para que el objeto a quien se le asigna realice dichos comportamientos y funciones. La ruta de creación es en la pestaña <em>Proyecto - Create – C# Script</em>, como se muestra en la siguiente figura.
+        .col-12.mb-4
+          p Son instrucciones de programación para que el objeto a quien se le asigna realice dichos comportamientos y funciones. La ruta de creación es en la pestaña <em>Proyecto - Create – C# Script</em>, como se muestra en la siguiente figura.
           figure
-            img(src='@/assets/curso/tema2/imagen25.png')
+            img(src='@/assets/curso/tema2/img13.png')
             figcaption Nota. Crear C# <em>Script</em>.
-        .col-lg-5.mb-4.mb-lg-0
+        .col-12
           p.mb-4 La forma de aplicarlo al objeto es similar al material, es decir, se arrastra al objeto para verificar su aplicación y se puede hacer a través de la pestaña Inspector, seleccionando previamente el objeto al que se aplicó el <em>script</em>, tal como se puede ver en la siguiente figura.
           figure
-            img(src='@/assets/curso/tema2/imagen26.png')
+            img(src='@/assets/curso/tema2/img14.png')
             figcaption Nota. Verificar aplicación C# <em>Script</em>.
-            
       .row.justify-content-around(titulo="Tipos de archivos externos")
-        .col-lg-5.mb-4.mb-lg-0
-          p.mb-4 Unity tiene elementos 3D básicos, si se quiere utilizar elementos más desarrollados se deben crear en programas externos, y luego importarlos, en este caso se pueden importar los archivos. fbx simplemente arrastrándolos desde la carpeta del computador hacia la ventana proyecto, en una nueva carpeta creada para los personajes o modelados, como se muestra en la siguiente figura.
+        .col-12.mb-4
+          p Unity tiene elementos 3D básicos, si se quiere utilizar elementos más desarrollados se deben crear en programas externos, y luego importarlos, en este caso se pueden importar los archivos. fbx simplemente arrastrándolos desde la carpeta del computador hacia la ventana proyecto, en una nueva carpeta creada para los personajes o modelados, como se muestra en la siguiente figura.
           figure
-            img(src='@/assets/curso/tema2/imagen27.png')
+            img(src='@/assets/curso/tema2/img15.png')
             figcaption Nota. Visualización elementos externos agregados.
-        .col-lg-5
-          p.mb-4 También se puede importar archivos de texturas de la misma manera, es decir, arrastrándolos desde la carpeta del computador al proyecto, con esto se creará un nuevo material. Ver muestra en la siguiente figura:
+        .col-12.mb-4
+          p También se puede importar archivos de texturas de la misma manera, es decir, arrastrándolos desde la carpeta del computador al proyecto, con esto se creará un nuevo material. Ver muestra en la siguiente figura:
           figure
-            img(src='@/assets/curso/tema2/imagen28.png')
+            img(src='@/assets/curso/tema2/img16.png')
             figcaption Nota. Visualización texturas agregadas.
-        .col-lg-5.mb-4.mb-lg-0
-          p.my-4 En este caso se usa la textura tipo roca en formato de archivo .jpg, la cual se aplica al cubo. Si se quiere conservar el material azul, pero con textura rocosa como la imagen de muestra, la forma de aplicarlo es la siguiente: el material se arrastra de la pestaña proyecto hacia la casilla cuadrada al lado de la opción Albedo en la pestaña Inspector que está a la derecha, ver el ejemplo en la siguiente figura:
+        .col-12.mb-4
+          p En este caso se usa la textura tipo roca en formato de archivo .jpg, la cual se aplica al cubo. Si se quiere conservar el material azul, pero con textura rocosa como la imagen de muestra, la forma de aplicarlo es la siguiente: el material se arrastra de la pestaña proyecto hacia la casilla cuadrada al lado de la opción Albedo en la pestaña Inspector que está a la derecha, ver el ejemplo en la siguiente figura:
           figure
-            img(src='@/assets/curso/tema2/imagen29.png')
+            img(src='@/assets/curso/tema2/img17.png')
             figcaption Nota. Ejemplo aplicación textura.
-        .col-lg-5.mb-4
-          p.mb-4 De la misma manera se agregan archivos en formato .mp3 .wav .ogg. Para el caso del ejemplo se usará .mp3, la manera de integrarlo es idéntica, arrastrándolos desde la carpeta del computador al proyecto, como se muestra a continuación:
+        .col-12.mb-4
+          p De la misma manera se agregan archivos en formato .mp3 .wav .ogg. Para el caso del ejemplo se usará .mp3, la manera de integrarlo es idéntica, arrastrándolos desde la carpeta del computador al proyecto, como se muestra a continuación:
           figure
-            img(src='@/assets/curso/tema2/imagen30.png')
+            img(src='@/assets/curso/tema2/img18.png')
             figcaption Nota. Ejemplo agregar archivos de audio.
-        .col-lg-5
-          p.mb-4 Una vez importado el archivo de audio se puede escuchar en el panel Inspector, en la parte inferior, dando clic en el botón Play, como se muestra en la siguiente figura.
+        .col-12
+          p Una vez importado el archivo de audio se puede escuchar en el panel Inspector, en la parte inferior, dando clic en el botón Play, como se muestra en la siguiente figura.
           figure
-            img(src='@/assets/curso/tema2/imagen31.png')
+            img(src='@/assets/curso/tema2/img19.png')
             figcaption Nota. Play archivo de audio.
-        .col-lg-5
 
 </template>
 
