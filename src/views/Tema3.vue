@@ -40,7 +40,7 @@
     p.text-center.mb-4(data-aos="fade-down-right") A continuación, puede visualizar la integración de assets en Unity para la creación de escenarios.
     figure(data-aos="fade")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/m-GeGQK-4pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/_YHkBk3iuHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
