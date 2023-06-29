@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="44" viewBox="0 0 820 44">
+  <g id="Grupo_61614" data-name="Grupo 61614" transform="translate(-180.406 -639.009)">
+    <text id="File" transform="translate(193.406 666.009)" fill="#12263f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">File</tspan></text>
+    <text id="Edit" transform="translate(260.406 666.009)" fill="#12263f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Edit</tspan></text>
+    <text id="Assets" transform="translate(328.406 666.009)" fill="#12263f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Assets</tspan></text>
+    <text id="GameObject" transform="translate(426.406 666.009)" fill="#12263f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">GameObject</tspan></text>
+    <text id="Component" transform="translate(593.406 666.009)" fill="#12263f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Component</tspan></text>
+    <text id="Window" transform="translate(754.406 666.009)" fill="#12263f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Window</tspan></text>
+    <text id="Help" transform="translate(873.406 666.009)" fill="#12263f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Help</tspan></text>
+    <rect id="Rectángulo_337413" data-name="Rectángulo 337413" width="820" height="3" transform="translate(180.406 676.009)" fill="#f2f2f2"/>
+    <rect id="Rectángulo_337414" data-name="Rectángulo 337414" width="820" height="4" transform="translate(180.406 679.009)" fill="#191919"/>
+    <g id="Rectángulo_337371" data-name="Rectángulo 337371" transform="translate(415.406 640.009)" fill="none" stroke="#867ceb" stroke-width="4">
+      <rect width="162" height="37" stroke="none"/>
+      <rect x="2" y="2" width="158" height="33" fill="none"/>
+    </g>
+  </g>
+</svg>
